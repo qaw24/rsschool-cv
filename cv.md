@@ -20,3 +20,8 @@ Skills:
 ------
 
 Python, HTML, CSS, JavaScript
+
+Education
+------
+
+Tver State University 
