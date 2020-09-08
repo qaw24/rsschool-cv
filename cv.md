@@ -15,3 +15,8 @@ Summary:
 ------
 
 My goal is to get a job as a front-end developer.
+
+Skills:
+------
+
+Python, HTML, CSS, JavaScript
