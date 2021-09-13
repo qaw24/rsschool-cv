@@ -1,1 +1,1 @@
-https://qaw.github.io/rsschool-cv/cv
+https://qaw24.github.io/rsschool-cv/cv
