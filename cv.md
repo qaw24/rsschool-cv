@@ -5,6 +5,10 @@
 - Email: jm1726@yandex.ru
 - Discord: MariaYuto (@qaw24)
 
+## About me
+---
+My goal is become software developer.
+
 ## Soft Skills
 ---
 - Adaptability
