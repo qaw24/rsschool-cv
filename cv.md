@@ -5,6 +5,10 @@
 - Discord: MariaYuto (@qaw24)
 
 ## About me
+<<<<<<< HEAD
+---
+=======
+>>>>>>> rsschool-cv-html
 My goal is become software developer.
 
 ## Soft Skills
