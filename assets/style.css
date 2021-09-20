@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-html,body {
-    overflow-x: hidden;
-}
-
 body {
     display: flex;
     flex-direction: column;
@@ -305,6 +301,7 @@ footer {
 @media screen and (max-width: 820px) {
     .burger {
         display: block;
+        curssor: pointer;
     }
 
     .nav-list {
