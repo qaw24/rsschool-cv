@@ -267,8 +267,16 @@ footer {
 
 .tech {
     position: absolute;
-    color:black;
+    color:rgb(150, 0, 0);
     font-size: 1.8rem;
+    font-weight:600;
     margin: 20% auto;
     width: 100%;
+}
+
+.text-experience {
+    margin-top: 1.5vh;
+    margin-bottom: 1.5vh;
+    font-family:'Montserrat','Courier New', Courier, monospace;
+    text-align: left;
 }
