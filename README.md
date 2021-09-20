@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# rsschool-cv
-=======
-# rsschool-cv
->>>>>>> 831ba17 (Create README.md)
+https://qaw24.github.io/rsschool-cv/
